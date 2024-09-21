@@ -1,5 +1,17 @@
-# avalanche
-Hardware RNG using an avalanche noise generator.
+# rack_piHAT
+Raspberry Pi HAT (Hardware Attached on Top) featuring a few components for use in my home lab/Pi rack
+
+# Features
+- Hardware RNG using an avalanche noise generator
+- Sensor bus with the following devices:
+  - TMP36 temperature sensor (analog on board/chip)
+  - MQ6 gas sensor
+  - BME280 (I2C)
+  - Some light sensor
+- Fan control (analog)
+- Something else?
+
+## Hardware RNG using an avalanche noise generator.
 
 The avalanche noise generator circuit consists of:
 
@@ -13,3 +25,4 @@ The avalanche noise generator circuit consists of:
 # Schematic
 
 # Protoboard
+*TODO:* **Attach picture**
