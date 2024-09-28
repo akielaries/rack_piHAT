@@ -1,10 +1,7 @@
 # rack_piHAT
-Raspberry Pi HAT (Hardware Attached on Top) featuring a few components for use in my home lab/Pi rack
+Raspberry Pi HAT (Hardware Attached on Top) for use in my home lab/Pi rack to collect some telemetry
 
 # Features
-- Hardware RNG
-  - uses an avalanche noise generator circuit
-  - STM32F103x for random number generation using the avalanche circuit's noise
 - Sensor bus with the following devices:
   - TMP36 temperature sensor (analog on board/chip)
   - MQ6 gas sensor
